@@ -1,0 +1,23 @@
+i.icon {
+    font-size: 2em;
+}
+
+body {
+    width: 100%;
+}
+
+.blogContainer {
+    width: 40%;
+    margin: 30px auto;
+    border: 3px solid lightgrey;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+.container.main {
+    margin-top: 7em;
+}
